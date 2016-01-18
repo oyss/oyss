@@ -1,0 +1,5 @@
+save password 
+
+git config --global credential.helper wincred
+
+
